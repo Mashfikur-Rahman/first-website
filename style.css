@@ -1,0 +1,16 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-size: 90px;
+    color: red;
+}
+.start{
+    color: orange;
+    text-align: center;
+}
+.start-2{
+    font-size: 80%;
+    color: orangered;
+    padding-bottom: 50px;
+}
