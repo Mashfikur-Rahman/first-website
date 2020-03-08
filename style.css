@@ -1,16 +1,78 @@
 body{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 h1{
-    font-size: 90px;
-    color: red;
+    font-size: 85px;
 }
-.start{
-    color: orange;
-    text-align: center;
+p{
+    color: dimgray;
 }
-.start-2{
-    font-size: 80%;
+.hello{
+    font-size: 60px;
+    font-weight: 500;
+    text-align: left;
+    margin: 300px 0px 0px 7px;
+    
+}
+.name{
+    font-size: 100px;
     color: orangered;
-    padding-bottom: 50px;
+    margin: 40px 0px 0px 1px;
+}
+.top-side{
+    width: 40%;
+    float: left;
+    padding-left: 260px;
+    margin: 150px 0px 0px 20px;
+}
+
+.top-backround{
+    background-image: url(document/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section{
+    height: 1300px;
+    width: 100%;
+}
+
+
+.a-button{
+    text-decoration: none;
+    background-color:rgb(255, 0, 13);
+    border-radius: 10px;
+    padding: 18px 66px;
+    font-size: 35px;
+    color: white;
+    font-weight: 300;
+    margin: 0px 130px 100px 0px;
+}
+.resume-button{
+    text-decoration: none;
+    background-color: rgb(255, 0, 13);
+    border-radius: 10px;
+    padding: 18px 80px;
+    color: white;
+    font-weight: 300;
+    font-size: 35px;
+}
+
+.middle{
+    width: 40%;
+    float: right;
+    padding-right: 230px;
+    margin: 150px 0px 0px 20px;
+}
+.middle-name{
+    color:black;
+    font-size: 90px;
+    font-weight: 500;
+}
+.middle-background{
+    background-image: url(document/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
